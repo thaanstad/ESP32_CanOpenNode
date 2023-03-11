@@ -4,7 +4,7 @@ CanOpenNode implementation for ESP32 Wrover
 CanOpenNode implementation for ESP32
 
 
-
+Arduino: 1.8.13
 ESP32 Arduino Core: 2.0.7
 https://github.com/espressif/arduino-esp32
 CANOpenNode: ca5f3578f0e1b9d032165a358720bd7c42447476
