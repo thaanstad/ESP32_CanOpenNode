@@ -1,2 +1,2 @@
 # ESP32_CanOpenNode
-CanOpenNode Implementation for ESP32 Wrover
+CanOpenNode implementation for ESP32 Wrover
