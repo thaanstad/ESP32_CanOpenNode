@@ -5,7 +5,8 @@ CanOpenNode implementation for ESP32
 
 
 
-ESP32 Core: 2.0.7
+ESP32 Arduino Core: 2.0.7
+https://github.com/espressif/arduino-esp32
 CANOpenNode: ca5f3578f0e1b9d032165a358720bd7c42447476
 https://github.com/CANopenNode/CANopenNode
 CANOpenEditor: 76baf61845d0dfeb26f36e7db8a07f2cc0f3d30b
